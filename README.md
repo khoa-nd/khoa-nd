@@ -23,6 +23,7 @@
 ## Upcoming Projects / Ideas to build
 - **How to make my son love learning math**
 - **How to start teaching him programming in this summer**
+- **Build an app for family tracking tasks and notes - used for parents**
 
 ## What I'm Doing
 
