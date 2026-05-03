@@ -20,6 +20,10 @@
 - 🪢 **[SoundKnot](https://sound-knot-pwa.vercel.app/)** - Mobile-first PWA for active-listening practice. Paste a YouTube video, recall what you heard, then check it against the transcript with a word-level diff.
 - 🚇 **[PlaySoroban.XYZ](https://playsoroban-xyz.vercel.app/)** - Daily Math Challenges for Young Minds
 
+## Upcoming Projects / Ideas to build
+- **How to make my son love learning math**
+- **How to start teaching him programming in this summer**
+
 ## What I'm Doing
 
 - **Living in the present** - Learning and building tools to make useful app faster
