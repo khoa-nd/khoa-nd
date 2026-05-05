@@ -24,6 +24,7 @@
 - **How to make my son love learning math**
 - **How to start teaching him programming in this summer**
 - **Build an app for family tracking tasks and notes - used for parents**
+- **Implement a personalized and living book recommendation app and wiki to be auto synthesize information of a book in realtime and make reco to user preference**
 
 ## What I'm Doing
 
