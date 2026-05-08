@@ -23,7 +23,7 @@
 ## Upcoming Projects / Ideas to build
 - **How to make my son love learning math**
 - **How to start teaching him programming in this summer**
-- **Build an app for family tracking tasks and notes - used for parents**
+- **Build an app for family tracking tasks and notes - used for parents - apply completely AI for voice input and hands-free**
 - **Implement a personalized and living book recommendation app and wiki to be auto synthesize information of a book in realtime and make reco to user preference**
 
 ## What I'm Doing
