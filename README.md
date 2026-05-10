@@ -17,13 +17,13 @@
 ## Current Projects
 
 - 🦕 **[SuperDino](https://super-dino-beta.vercel.app/)** - A gamified chore & reward tracker for families. Kids log tasks to earn eggs, make wishes, and parents approve and reward — all in a phone-first.
+- 🦏 **[SuperRhino](https://super-rhino.vercel.app/)** - Family Management App — Stay organized, build streaks, and keep your family accountable together. Built for adults in a family. Track personal goals and household tasks, earn Credits, compete on the leaderboard, and build consistency through daily streaks.
 - 🪢 **[SoundKnot](https://sound-knot-pwa.vercel.app/)** - Mobile-first PWA for active-listening practice. Paste a YouTube video, recall what you heard, then check it against the transcript with a word-level diff.
 - 🚇 **[PlaySoroban.XYZ](https://playsoroban-xyz.vercel.app/)** - Daily Math Challenges for Young Minds
 
 ## Upcoming Projects / Ideas to build
 - **How to make my son love learning math**
 - **How to start teaching him programming in this summer**
-- **Build an app for family tracking tasks and notes - used for parents - apply completely AI for voice input and hands-free**
 - **Implement a personalized and living book recommendation app and wiki to be auto synthesize information of a book in realtime and make reco to user preference**
 
 ## What I'm Doing
