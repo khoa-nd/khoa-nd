@@ -25,6 +25,7 @@
 - **How to make my son love learning math**
 - **How to start teaching him programming in this summer**
 - **Implement a personalized and living book recommendation app and wiki to be auto synthesize information of a book in realtime and make reco to user preference**
+- **A living AI native web CMS**
 
 ## What I'm Doing
 
