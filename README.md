@@ -18,7 +18,7 @@
 
 - 🦕 **[SuperDino](https://super-dino-beta.vercel.app/)** - A gamified chore & reward tracker for families. Kids log tasks to earn eggs, make wishes, and parents approve and reward — all in a phone-first.
 - 🦏 **[SuperRhino](https://super-rhino.vercel.app/)** - Family Management App — Stay organized, build streaks, and keep your family accountable together. Built for adults in a family. Track personal goals and household tasks, earn Credits, compete on the leaderboard, and build consistency through daily streaks.
-- 🪢 **[SoundKnot](https://sound-knot-pwa.vercel.app/)** - Mobile-first PWA for active-listening practice. Paste a YouTube video, recall what you heard, then check it against the transcript with a word-level diff.
+- 🪢 **SoundKnot** - An AI-assist English listening practice app that turns authentic YouTube content (podcasts, lectures, conversations) into deliberate practice sessions through active recall, dictation, and an AI tutor. Runs on iOS, Android, and Web from a single Expo Router codebase.
 - 🚇 **[PlaySoroban.XYZ](https://playsoroban-xyz.vercel.app/)** - Daily Math Challenges for Young Minds
 
 ## Upcoming Projects / Ideas to build
